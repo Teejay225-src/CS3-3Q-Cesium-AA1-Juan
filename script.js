@@ -1,5 +1,5 @@
 const PI = 3.14;
-let r =
+let r = 6.378e6
 let c = 2*PI*r;
 let surfArea = 4*PI*r*r;
 let vol = (4/3)*(PI*r*r*r);
